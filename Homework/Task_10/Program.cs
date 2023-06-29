@@ -3,6 +3,7 @@
 // 456 -> 5
 // 782 -> 8
 // 918 -> 1
+
 Console.Write("Введите цифру: ");
 int number = Convert.ToInt32(Console.ReadLine());
 int secondDigit = (number - number%10)/10 - (number/100)*10;
