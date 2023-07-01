@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GeekBrains\\C#\\Examples\\Sem_2\\Homework\\Task_Extra\\Task_Extra.csproj": {}
+    "E:\\GeekBrains\\C#\\Examples\\sem_2\\Homework\\Task_Extra\\Task_Extra.csproj": {}
   },
   "projects": {
-    "E:\\GeekBrains\\C#\\Examples\\Sem_2\\Homework\\Task_Extra\\Task_Extra.csproj": {
+    "E:\\GeekBrains\\C#\\Examples\\sem_2\\Homework\\Task_Extra\\Task_Extra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GeekBrains\\C#\\Examples\\Sem_2\\Homework\\Task_Extra\\Task_Extra.csproj",
+        "projectUniqueName": "E:\\GeekBrains\\C#\\Examples\\sem_2\\Homework\\Task_Extra\\Task_Extra.csproj",
         "projectName": "Task_Extra",
-        "projectPath": "E:\\GeekBrains\\C#\\Examples\\Sem_2\\Homework\\Task_Extra\\Task_Extra.csproj",
+        "projectPath": "E:\\GeekBrains\\C#\\Examples\\sem_2\\Homework\\Task_Extra\\Task_Extra.csproj",
         "packagesPath": "C:\\Users\\Юрий\\.nuget\\packages\\",
-        "outputPath": "E:\\GeekBrains\\C#\\Examples\\Sem_2\\Homework\\Task_Extra\\obj\\",
+        "outputPath": "E:\\GeekBrains\\C#\\Examples\\sem_2\\Homework\\Task_Extra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Юрий\\AppData\\Roaming\\NuGet\\NuGet.Config"
